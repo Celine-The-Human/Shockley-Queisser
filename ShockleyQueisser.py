@@ -48,3 +48,5 @@ SCC.calculate(
 # main output data:
 # SCC.SQ_Efficiency         SCC.SQ_VOC          SCC.SQ_JSC          SCC.SQ_FF           SCC.SQ_Voltage (array)          SCC.SQ_Current (array)
 # SCC.Target_Efficiency     SCC.Target_VOC      SCC.Target_JSC      SCC.Target_FF       SCC.Target_Voltage (array)      SCC.Target_Current (array)
+
+
